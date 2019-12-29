@@ -1,4 +1,4 @@
-# CS2102-training-camp
+# CS2102 training camp: Math applications in design and analysis of algorithms.
 
 This is the git repository for the material that will be used and produced throughout the study sessions. 
 
