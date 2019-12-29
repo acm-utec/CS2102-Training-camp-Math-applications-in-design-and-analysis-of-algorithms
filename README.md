@@ -2,7 +2,7 @@
 
 This is the git repository for the material that will be used and produced throughout the study sessions. 
 
-+ The check the syllabus [click here](./syllabus.pdf).
++ The check the syllabus [click here](./Syllabus.pdf).
 + The books will lay in `resources/books/`.
 + You can check the transcripts for the videos in `resources/video transcripts/`
 
